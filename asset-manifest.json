@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lobsangTsering/walletbees/static/css/main.5f361e03.chunk.css",
+    "main.js": "/lobsangTsering/walletbees/static/js/main.f4d76b5d.chunk.js",
+    "main.js.map": "/lobsangTsering/walletbees/static/js/main.f4d76b5d.chunk.js.map",
+    "runtime-main.js": "/lobsangTsering/walletbees/static/js/runtime-main.fdc0952a.js",
+    "runtime-main.js.map": "/lobsangTsering/walletbees/static/js/runtime-main.fdc0952a.js.map",
+    "static/js/2.83b17038.chunk.js": "/lobsangTsering/walletbees/static/js/2.83b17038.chunk.js",
+    "static/js/2.83b17038.chunk.js.map": "/lobsangTsering/walletbees/static/js/2.83b17038.chunk.js.map",
+    "index.html": "/lobsangTsering/walletbees/index.html",
+    "precache-manifest.8f42a6eccb1b4b993cc41ddb8864bbd3.js": "/lobsangTsering/walletbees/precache-manifest.8f42a6eccb1b4b993cc41ddb8864bbd3.js",
+    "service-worker.js": "/lobsangTsering/walletbees/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/lobsangTsering/walletbees/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.83b17038.chunk.js.LICENSE.txt": "/lobsangTsering/walletbees/static/js/2.83b17038.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lobsangTsering/walletbees/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdc0952a.js",
+    "static/js/2.83b17038.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f4d76b5d.chunk.js"
+  ]
+}
